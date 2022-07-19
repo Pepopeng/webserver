@@ -1,10 +1,10 @@
 # webserver
 
-#build 
+# build 
 
 sh build.ch
 
-#run
+# run
 
 ./server
 
